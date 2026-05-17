@@ -1,0 +1,7 @@
+"ooTextFile"
+"PairDistribution"
+
+2 pairs
+
+"fɪʃ" "fɪʃ" 8767
+"fɪʃ" "wɪs" 1233

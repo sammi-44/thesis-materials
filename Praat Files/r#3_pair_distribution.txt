@@ -1,0 +1,9 @@
+"ooTextFile"
+"PairDistribution"
+
+4 pairs
+
+"θæŋk ju" "æŋ ju" 3448
+"θæŋk ju" "æ u" 1379
+"θæŋk ju" "æŋk ju" 5172
+"θæŋk ju" "θæŋk ju" 0

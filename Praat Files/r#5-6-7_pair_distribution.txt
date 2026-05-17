@@ -1,0 +1,17 @@
+"ooTextFile"
+"PairDistribution"
+
+12 pairs
+
+"slɪpri" "slɪfi" 1667
+"slɪpri" "sɪfi" 3333
+"slɪpri" "sɪpfi" 5000
+"slɪpri" "slɪpri" 0
+"zɛbɹə" "slɛvə" 1667
+"zɛbɹə" "lɛvə" 1667
+"zɛbɹə" "zɛvə" 6667
+"zɛbɹə" "zɛbɹə" 0
+"bɹɪʤ" "vɪz" 2273
+"bɹɪʤ" "vɪdz" 2273
+"bɹɪʤ" "bvɪdz" 5454
+"bɹɪʤ" "bɹɪʤ" 0

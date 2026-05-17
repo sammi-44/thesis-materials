@@ -1,0 +1,8 @@
+"ooTextFile"
+"PairDistribution"
+
+3 pairs
+
+"ʌmbrɛlə" "ʌp(wɛwə)" 6666
+"ʌmbrɛlə" "(bɛwə)" 3333
+"ʌmbrɛlə" "ʌm(brɛlə)" 0

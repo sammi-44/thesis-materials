@@ -1,0 +1,21 @@
+File type = "ooTextFile"
+Object class = "OTGrammar 4"
+
+<OptimalityTheory>
+0 ! leak
+7 constraints
+constraint [1]: "*Complex" 100 100 1 
+constraint [2]: "Max-Seg" 100 100 1 
+constraint [3]: "ID-Voice" 100 100 1
+constraint [4]: "*Rhotic" 100 100 1
+constraint [5]: "ID-Cons" 100 100 1
+constraint [6]: "ID-Place" 100 100 1
+constraint [7]: "Parse-σ" 100 100 1
+
+0 fixed rankings
+
+1 tableaus
+input [1]: "ʌmbrɛlə" 3
+   candidate [1]: "ʌp(wɛwə)" 0 1 1 0 2 0 1
+   candidate [2]: "(bɛwə)" 0 3 0 0 1 1 0
+   candidate [3]: "ʌm(brɛlə)" 1 0 0 1 0 0 1

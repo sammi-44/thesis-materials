@@ -1,0 +1,9 @@
+"ooTextFile"
+"PairDistribution"
+
+4 pairs
+
+"pærət" "pæwət" 3666
+"pærət" "tærət" 4666
+"pærət" "ærət" 2666
+"pærət" "pærət" 0

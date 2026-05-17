@@ -1,0 +1,7 @@
+"ooTextFile"
+"PairDistribution"
+
+2 pairs
+
+"ɹeɪn" "ɹeɪn" 9023
+"ɹeɪn" "wan"  0977

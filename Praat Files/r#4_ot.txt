@@ -1,0 +1,22 @@
+File type = "ooTextFile"
+Object class = "OTGrammar 7"
+
+<OptimalityTheory>
+0 ! leak
+7 constraints
+constraint [1]: "ID-Cons" 100 100 1 
+constraint [2]: "*Rhotic" 100 100 1 
+constraint [3]: "ID-Ons" 100 100 1
+constraint [4]: "ID-Place" 100 100 1
+constraint [5]: "Max-Seg" 100 100 1
+constraint [6]: "ONSET" 100 100 1
+constraint [7]: "*#B" 100 100 1
+
+0 fixed rankings
+
+1 tableaus
+input [1]: "pærət" 4
+   candidate [1]: "pæwət" 1 0 1 1 0 0 1
+   candidate [2]: "tærət" 0 1 1 1 0 0 0
+   candidate [3]: "ærət" 0 1 0 0 1 1 0
+   candidate [4]: "pærət" 0 1 0 0 0 0 1

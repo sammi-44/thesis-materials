@@ -1,0 +1,36 @@
+File type = "ooTextFile"
+Object class = "OTGrammar 70"
+
+<OptimalityTheory>
+0 ! leak
+11 constraints
+constraint [1]: "*Complex" 100 100 1 
+constraint [2]: "ID-Son" 100 100 1 
+constraint [3]: "ID-Cont" 100 100 1 
+constraint [4]: "ID-Place" 100 100 1 
+constraint [5]: "UNIF" 100 100 1 
+constraint [6]: "*Liquid" 100 100 1 
+constraint [7]: "Max-Seg" 100 100 1 
+constraint [8]: "*Cor[+ant]/_[+front]" 100 100 1 
+constraint [9]: "NoAffricate" 100 100 1
+constraint [10]: "ID-Sib" 100 100 1
+constraint [11]: "ID-Affr." 100 100 1
+
+0 fixed rankings
+
+3 tableaus
+input [1]: "slɪpri" 4
+   candidate [1]: "slɪfi" 1 1 1 1 1 1 1 0 0 0 0
+   candidate [2]: "sɪfi" 0 1 1 1 1 0 2 1 0 0 0
+   candidate [3]: "sɪpfi" 1 1 1 1 0 0 1 1 0 0 0
+   candidate [4]: "slɪpri" 2 0 0 0 0 2 0 0 0 0 0
+input [2]: "zɛbɹə" 4
+   candidate [1]: "slɛvə" 1 2 1 2 1 1 1 0 0 0 0
+   candidate [2]: "lɛvə" 0 2 1 2 1 1 2 0 0 1 0
+   candidate [3]: "zɛvə" 0 2 1 1 1 0 1 1 0 0 0
+   candidate [4]: "zɛbɹə" 1 0 0 0 0 2 0 1 0 0 0
+input [3]: "bɹɪʤ" 4
+   candidate [1]: "vɪz" 0 1 1 2 1 0 1 0 0 0 1
+   candidate [2]: "vɪdz" 0 1 1 2 1 0 1 0 1 0 0
+   candidate [3]: "bvɪdz" 1 1 0 1 0 0 0 0 1 0 0
+   candidate [4]: "bɹɪʤ" 1 0 0 0 0 1 0 0 1 0 0

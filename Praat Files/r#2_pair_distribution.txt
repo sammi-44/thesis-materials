@@ -1,0 +1,7 @@
+"ooTextFile"
+"PairDistribution"
+4 pairs
+"spaɪdə" "ɔdə" 698
+"spaɪdə" "haɪdə" 4651
+"spaɪdə" "paɪdə" 4651
+"spaɪdə" "spaɪdə" 0

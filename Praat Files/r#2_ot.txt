@@ -1,0 +1,22 @@
+File type = "ooTextFile"
+Object class = "OTGrammar 5"
+
+<OptimalityTheory>
+0 ! leak
+7 constraints
+constraint [1]: "*Complex-Ons" 100 100 1 
+constraint [2]: "ID-Ons" 100 100 1 
+constraint [3]: "*Ons/Plos" 100 100 1
+constraint [4]: "*Ons/Glott" 100 100 1
+constraint [5]: "Max-Seg" 100 100 1
+constraint [6]: "ID-Vowel" 100 100 1
+constraint [7]: "ONSET" 100 100 1
+
+0 fixed rankings
+
+1 tableaus
+input [1]: "spaɪdə" 4
+   candidate [1]: "ɔdə" 0 0 0 0 2 1 1
+   candidate [2]: "haɪdə" 0 1 0 1 1 0 0
+   candidate [3]: "paɪdə" 0 0 1 0 1 0 0
+   candidate [4]: "spaɪdə" 1 0 1 0 0 0 0
